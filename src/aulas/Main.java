@@ -1,3 +1,4 @@
+package aulas;
 import java.util.Locale;
 
 public class Main {

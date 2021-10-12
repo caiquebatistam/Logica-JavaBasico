@@ -1,3 +1,4 @@
+package aulas;
 import java.util.Scanner;
 
 public class EstruturaCondicional {
